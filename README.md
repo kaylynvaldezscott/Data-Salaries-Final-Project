@@ -17,5 +17,6 @@ We then grouped certain columns into their own dataframes in order to make analy
 
 <img width="1128" alt="Screenshot 2024-02-08 at 2 00 24 PM" src="https://github.com/kaylynvaldezscott/Data-Salaries-Final-Project/assets/141589524/6051914a-ae3f-4d4d-a304-1f0dff948055">
 
-<img width="1440" alt="Screenshot 2024-02-08 at 2 00 08 PM" src="https://github.com/kaylynvaldezscott/Data-Salaries-Final-Project/assets/141589524/de28bbf3-9969-4355-8471-3e0f68f09de2">
+<img width="1136" alt="Screenshot 2024-02-08 at 2 00 52 PM" src="https://github.com/kaylynvaldezscott/Data-Salaries-Final-Project/assets/141589524/e57ea050-a12b-4383-8964-f48e94a04614">
+
 
