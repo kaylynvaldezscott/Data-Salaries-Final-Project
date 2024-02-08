@@ -23,7 +23,7 @@ We then grouped certain columns into their own dataframes in order to make analy
 
 
 
-Next, we created visualizations using Tableau to analyze specific trends and information in the data. To see visulaizations, visit folder labeled **'Visualization Images'**. 
+Next, we created visualizations using Tableau to analyze specific trends and information in the data. To see visualizations, visit folder labeled **'Visualization Images'**. 
 
 For the visualizations, we explored the questions: 
 
