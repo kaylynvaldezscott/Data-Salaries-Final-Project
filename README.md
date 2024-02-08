@@ -4,7 +4,7 @@
 
 Purpose of the Final Project (Project 4) is to initialize, train, and evaluate a model using a data set of our choosing. We also tell a story using data visualizations through Tableau.
 
-We began by cleaning our large data set, orginally called 'Salary_Data'. We did this by dropping null values in the columns, as well dropping columns that would not aid in our analysis. 
+We began by cleaning our large data set, orginally called 'Salary_Data'. We did this by dropping null values in the columns, as well dropping columns that would not aid in our analysis. To see final data cleaned, see file labeled 'Cleaned_Salary_Data' or 'Project 4_CSV'.
 
 <img width="1125" alt="Screenshot 2024-02-08 at 1 59 07 PM" src="https://github.com/kaylynvaldezscott/Data-Salaries-Final-Project/assets/141589524/706ea348-b3fc-4162-8ec3-95d55860afcd">
 
