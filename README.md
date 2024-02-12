@@ -39,6 +39,15 @@ For the visualizations, we explored the questions:
 - How does the base salary at one particular company compare to another? Ex. Microsoft vs. Apple?
 
 
-Finally, we trained 
+Finally, we trained seven machine learning models in order to predict several factors in relation to average base salary. To see machine learning models, visit folder labeled 'ML Images'. Below are two examples of predictions in table format to show accuracy 
+
+<img width="729" alt="Screenshot 2024-02-12 at 6 17 53 PM" src="https://github.com/kaylynvaldezscott/Data-Salaries-Final-Project/assets/141589524/6b183d7f-08af-4dbd-930a-6858be24863b">
+
+<img width="349" alt="Screenshot 2024-02-12 at 6 18 16 PM" src="https://github.com/kaylynvaldezscott/Data-Salaries-Final-Project/assets/141589524/082ad570-cb42-42b1-939a-933bceb7383a">
+
+**Results**
+
+We found that there is a positive corelation between factors such as years spent at company and years of experience to average base salary. Please explore to see other factors that we investigated in relation to base salary and yearly bonus! 
+
 
 
